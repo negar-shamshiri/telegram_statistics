@@ -1,6 +1,11 @@
 # telegram_statistics
 Export Statistics for a Telegram Group Chat
 
+## Description
+This program downloads and extracts json file of a telegram group to generate a word cloud from this data.
+
+![WordCloud](telegram_statistics/src/data/wordcloud.png)
+
 ## How to Run
 First, in main repo directory, run the following code to add `src` to your `PYTHONPATH`:
 ```
